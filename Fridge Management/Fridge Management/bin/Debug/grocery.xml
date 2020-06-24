@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfGrocery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Grocery>
+    <productName>oranges</productName>
+    <expireNo>2020-06-18T00:00:00</expireNo>
+    <category>Fruit</category>
+    <quantity>8</quantity>
+  </Grocery>
+  <Grocery>
+    <productName>Milk</productName>
+    <expireNo>2020-06-07T20:30:00+02:00</expireNo>
+    <category>Dairy</category>
+    <quantity>5</quantity>
+  </Grocery>
+  <Grocery>
+    <productName>Apple</productName>
+    <expireNo>2020-06-07T20:30:00+02:00</expireNo>
+    <category>Fruit</category>
+    <quantity>4</quantity>
+  </Grocery>
+  <Grocery>
+    <productName>chicken</productName>
+    <expireNo>2020-06-07T20:30:00+02:00</expireNo>
+    <category>Meat</category>
+    <quantity>0</quantity>
+  </Grocery>
+  <Grocery>
+    <productName>Add Product</productName>
+    <expireNo>2020-06-08T20:30:00+02:00</expireNo>
+    <category>select one</category>
+    <quantity>0</quantity>
+  </Grocery>
+</ArrayOfGrocery>

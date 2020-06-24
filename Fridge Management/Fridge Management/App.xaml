@@ -1,0 +1,68 @@
+﻿<Application x:Class="Fridge_Management.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Fridge_Management"
+             xmlns:resx ="clr-namespace:Fridge_Management.Properties"
+             Startup="Application_Startup" 
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+
+        <!--Textblock-->
+            <Style TargetType="TextBlock" x:Key="sty_cap">
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <!--Button Add delete-->
+        <Style TargetType="Button" x:Key="sty_bnt_cnt">
+           
+            <Setter Property="Width" Value="55"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="FontSize" Value="11"/>
+
+        </Style>
+
+        <!--Button increment decrement-->
+
+        <Style TargetType="Button" x:Key="sty_bnt_Inc_dec">
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Width" Value="28"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Margin" Value="2"/>
+        </Style>
+
+
+        <!--menu buttons-->
+        <Style TargetType="Button" x:Key="sty_bnt_menu">
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="130"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+        </Style>
+
+        <Style TargetType="Image" x:Key="sty_img_menu">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="27"/>
+            <Setter Property="Margin" Value="4,0,0,0"/>
+            <Setter Property="Stretch" Value="Uniform"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+          
+        </Style>
+
+
+
+        <!--window-->
+        <Style x:Key="sty_win" TargetType="Window">
+            <Setter Property="Width" Value="550"/>
+            <Setter Property="Height" Value="450"/>
+            <Setter Property="Title" Value="{x:Static resx:Resources.appName}"/>
+        </Style>
+        
+
+    </Application.Resources>
+</Application>

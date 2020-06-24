@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <id>0</id>
+    <text>what is my first name?</text>
+    <answers>
+      <Answer>
+        <atext>anirudh</atext>
+        <isCorrect>true</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>balu</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>adimulam</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>ans</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+    </answers>
+  </Question>
+  <Question>
+    <id>0</id>
+    <text>where are you from?</text>
+    <answers>
+      <Answer>
+        <atext>secunderabad</atext>
+        <isCorrect>true</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>telengana</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>ans</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+      <Answer>
+        <atext>ans</atext>
+        <isCorrect>false</isCorrect>
+      </Answer>
+    </answers>
+  </Question>
+</ArrayOfQuestion>

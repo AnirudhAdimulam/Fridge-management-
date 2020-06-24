@@ -1,0 +1,27 @@
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\bin\Debug\Fridge Management.exe.config
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\bin\Debug\Fridge Management.exe
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\bin\Debug\Fridge Management.pdb
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.g.resources
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.exe
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge Management.pdb
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\App.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\quiz.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\quiz.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Takequiz.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Takequiz.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\cookingvideos.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\cookingvideos.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\shoppinglist.g.cs
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\shoppinglist.baml
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\bin\Debug\de\Fridge Management.resources.dll
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\de\Fridge Management.resources.dll
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge_Management.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Fridge Management\Fridge Management\obj\Debug\Fridge_Management.Properties.Resources.de.resources
